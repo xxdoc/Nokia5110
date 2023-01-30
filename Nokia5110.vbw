@@ -1,0 +1,8 @@
+frmMain = 164, 45, 1355, 930, C, 49, 38, 284, 484, C
+frmSimCard = 22, 22, 1191, 694, C, 298, 39, 534, 294, C
+LargeCharacterSet = 154, 154, 1345, 752, C
+MediumCharacterSet = 154, 153, 1345, 752, C
+CoreGraphics = 66, 68, 1236, 738, C
+SidebarGraphics = 0, 0, 0, 0, C
+StringGraphics = 154, 154, 1345, 752, C
+SymbolGraphics = 176, 176, 1367, 774, C
